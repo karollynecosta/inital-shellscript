@@ -1,1 +1,4 @@
-<h2>ShellScript - Automação na prática</h2>
+<h1 align="center">
+<img src="\assets\bash.png" alt="Shell" width="200px"/>
+</h1>
+<h2 align="center">ShellScript - Automação na prática</h2>
